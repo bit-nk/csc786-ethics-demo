@@ -11,7 +11,7 @@ This research adheres to ethical guidelines for AI and cybersecurity research.
 
 ---
 
-### 🔐 False Positive Secret Detection Notice
+### False Positive Secret Detection Notice
 
 GitHub's automated security scanner flagged some dataset entries as potential **Telegram Bot Tokens**.
 These were **false positives**, originating from phishing datasets that intentionally include URLs
@@ -22,5 +22,14 @@ mimicking real tokens for research purposes (e.g., `https://api.telegram.org/bot
 - This dataset is used **strictly for cybersecurity and phishing detection research**, not for exploitation.
 
 By documenting this, we maintain transparency and ethical compliance in data usage.
+
+---
+
+### Data Source Acknowledgment
+
+All datasets used are open, research-licensed, and publicly available.
+They were collected ethically, with no scraping or private data extraction.
+Each dataset’s citation and source link are listed in the README for transparency.
+
 
 ---
